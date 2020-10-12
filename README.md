@@ -1,4 +1,4 @@
-# Python-for-Finance-
+# Python-for-Finance-Research Models
 
 In this task we are going to use the Python for Finance Cookbook by Eryk Lewison in order to create some finacial predicition models. 
 
